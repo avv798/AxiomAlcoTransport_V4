@@ -1,0 +1,9 @@
+C:\AxiomAlcoTransport_V4\Auxiliaries\AxiomAuxiliary\bin\Debug\AxiomAuxiliary.dll
+C:\AxiomAlcoTransport_V4\Auxiliaries\AxiomAuxiliary\bin\Debug\AxiomAuxiliary.pdb
+C:\AxiomAlcoTransport_V4\Auxiliaries\AxiomAuxiliary\bin\Debug\log4net.dll
+C:\AxiomAlcoTransport_V4\Auxiliaries\AxiomAuxiliary\bin\Debug\log4net.xml
+C:\AxiomAlcoTransport_V4\Auxiliaries\AxiomAuxiliary\obj\Debug\AxiomAuxiliary.csprojAssemblyReference.cache
+C:\AxiomAlcoTransport_V4\Auxiliaries\AxiomAuxiliary\obj\Debug\AxiomAuxiliary.csproj.CoreCompileInputs.cache
+C:\AxiomAlcoTransport_V4\Auxiliaries\AxiomAuxiliary\obj\Debug\AxiomAuxiliary.csproj.CopyComplete
+C:\AxiomAlcoTransport_V4\Auxiliaries\AxiomAuxiliary\obj\Debug\AxiomAuxiliary.dll
+C:\AxiomAlcoTransport_V4\Auxiliaries\AxiomAuxiliary\obj\Debug\AxiomAuxiliary.pdb
